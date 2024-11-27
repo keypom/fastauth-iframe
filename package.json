@@ -10,5 +10,6 @@
   "devDependencies": {
     "vite": "^4.0.0",
     "wrangler": "^2.0.0"
-  }
+  },
+  "packageManager": "yarn@4.5.3"
 }
